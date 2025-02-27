@@ -10,7 +10,26 @@ In this reposority you will find my working solutions for puzzles on the platfor
 > **Info:**  I want to write my code understandable and clean even when it makes the actual code longer.
 
 #### :star: EASY
-
+* Are The Clumps Normal -
+* Cheap Choises -
+* Count your coins -
+* Credit Card Verified -
+* Faro shuffle -
+* FireControl -
+* Ghost Legs -
+* Horse-racing Duals -
+* Is that a possible word -
+* Island Escape -
+* Lumen -
+* Next growing number -
+* Odd-Quad-Out -
+* Panel count -
+* Prefix code -
+* Queen control -
+* Reverse Minesweeper -
+* Robot Reach -
+* Robot Show -
+* Treasure hunt -
 
 #### :star::star: MEDIUM
 * Bruce Lee - [Lua]()
