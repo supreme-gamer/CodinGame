@@ -28,8 +28,8 @@ In this reposority you will find my working solutions for puzzles on the platfor
 * Treasure hunt - [Python](https://github.com/supreme-gamer/CodinGame/blob/main/Easy/Treasure%20hunt/Treasure%20hunt.py)
 
 #### :star::star: MEDIUM
-* Bruce Lee - [Lua]()
-* Byte Pair Encoding - [Lua]()
-* Code Breaker Puzzle - [Lua]()
-* Numeral System - [Lua]()
-* Sudoku Solver - [Lua]()
+* Bruce Lee - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Bruce%20Lee/Bruce%20Lee.lua)
+* Byte Pair Encoding - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Byte%20Pair%20Encoding/Byte%20Pair%20Encoding.lua)
+* Code Breaker Puzzle - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Code%20Breaker%20Puzzle/Code%20Breaker%20Puzzle.lua)
+* Numeral System - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Numeral%20System/Numeral%20System.lua)
+* Sudoku Solver - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Sudoku%20Solver/Sudoku%20Solver.lua)
