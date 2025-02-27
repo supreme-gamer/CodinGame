@@ -1,7 +1,3 @@
-﻿[![CodinGame](/CodinGame.png)](https://www.codingame.com/ "CodinGame")
-
-<br>
-
 # CodinGame Solutions
 
 ## Introduction
