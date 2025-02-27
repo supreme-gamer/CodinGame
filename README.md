@@ -10,7 +10,7 @@ In this reposority you will find my working solutions for puzzles on the platfor
 > **Info:**  I want to write my code understandable and clean even when it makes the actual code longer.
 
 #### :star: EASY
-* Are The Clumps Normal - [Lua](), [C#](https://github.com/supreme-gamer/CodinGame/blob/main/Easy/Are%20The%20Clumps%20Normal/Are%20The%20Clumps%20Normal.cs)
+* Are The Clumps Normal - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Easy/Are%20The%20Clumps%20Normal/Are%20The%20Clumps%20Normal.lua), [C#](https://github.com/supreme-gamer/CodinGame/blob/main/Easy/Are%20The%20Clumps%20Normal/Are%20The%20Clumps%20Normal.cs)
 * Cheap Choises - [C#]()
 * Count your coins - [C#]()
 * Credit Card Verified - [Lua]()
