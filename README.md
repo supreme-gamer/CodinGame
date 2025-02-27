@@ -10,26 +10,26 @@ In this reposority you will find my working solutions for puzzles on the platfor
 > **Info:**  I want to write my code understandable and clean even when it makes the actual code longer.
 
 #### :star: EASY
-* Are The Clumps Normal -
-* Cheap Choises -
-* Count your coins -
-* Credit Card Verified -
-* Faro shuffle -
-* FireControl -
-* Ghost Legs -
-* Horse-racing Duals -
-* Is that a possible word -
-* Island Escape -
-* Lumen -
-* Next growing number -
-* Odd-Quad-Out -
-* Panel count -
-* Prefix code -
-* Queen control -
-* Reverse Minesweeper -
-* Robot Reach -
-* Robot Show -
-* Treasure hunt -
+* Are The Clumps Normal - [Lua](), [C#]()
+* Cheap Choises - [C#]()
+* Count your coins - [C#]()
+* Credit Card Verified - [Lua]()
+* Faro shuffle - [C#]()
+* FireControl - [Lua](), [C#](), [Python]()
+* Ghost Legs - [Lua](), [Python]()
+* Horse-racing Duals - [Lua](), [Python]()
+* Is that a possible word - [Lua]()
+* Island Escape - [Python]()
+* Lumen - [Python]()
+* Next growing number - [C#]()
+* Odd-Quad-Out - [C#]()
+* Panel count - [Lua]()
+* Prefix code - [C#](), [Python]()
+* Queen control - [C#](), [Python]()
+* Reverse Minesweeper - [C#]()
+* Robot Reach - [C#]()
+* Robot Show - [Python]()
+* Treasure hunt - [Python]()
 
 #### :star::star: MEDIUM
 * Bruce Lee - [Lua]()
