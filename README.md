@@ -33,3 +33,11 @@ In this reposority you will find my working solutions for puzzles on the platfor
 * Code Breaker Puzzle - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Code%20Breaker%20Puzzle/Code%20Breaker%20Puzzle.lua)
 * Numeral System - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Numeral%20System/Numeral%20System.lua)
 * Sudoku Solver - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Sudoku%20Solver/Sudoku%20Solver.lua)
+
+#### :star::star::star: HARD
+* Alternative vote - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Hard/Alternative%20vote/Alternative%20vote.lua)
+* Google Interview - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Hard/Google%20Interview%20-%20The%20Two%20Egg%20Problem/Google%20Interview%20-%20The%20Two%20Egg%20Problem.lua)
+* Roller Coaster - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Hard/Roller%20Coaster/Roller%20Coaster.lua)
+* Simplify Selection Ranges - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Hard/Simplify%20Selection%20Ranges/Simplify%20Selection%20Ranges.lua)
+* Super Computer - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Hard/Super%20Computer/Super%20Computer.lua)
+
