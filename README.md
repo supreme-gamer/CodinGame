@@ -30,9 +30,14 @@ In this reposority you will find my working solutions for puzzles on the platfor
 #### :star::star: MEDIUM
 * Bruce Lee - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Bruce%20Lee/Bruce%20Lee.lua)
 * Byte Pair Encoding - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Byte%20Pair%20Encoding/Byte%20Pair%20Encoding.lua)
+* Carmichael numbers - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Carmichael%20numbers/Carmichael%20numbers.lua)
 * Code Breaker Puzzle - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Code%20Breaker%20Puzzle/Code%20Breaker%20Puzzle.lua)
+* Disks intersection - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Disks%20intersection/Disks%20intersection.lua)
+* Gravity - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Gravity/Gravity.lua)
+* Huffman Code - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Huffman%20Code/Huffman%20Code.lua)
 * Numeral System - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Numeral%20System/Numeral%20System.lua)
 * Sudoku Solver - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Sudoku%20Solver/Sudoku%20Solver.lua)
+* The Gift - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/The%20Gift/The%20Gift.lua)
 
 #### :star::star::star: HARD
 * Alternative vote - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Hard/Alternative%20vote/Alternative%20vote.lua)
