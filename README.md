@@ -1,7 +1,7 @@
 # CodinGame Solutions
 
 ## Introduction
-In this reposority you will find my working solutions for puzzles on the platform https://www.codingame.com/, mostly in C# and Lua, some in Python as well. 
+In this reposority you will find my working solutions for puzzles on the platform https://www.codingame.com/, mostly in Lua, some in Python and C# as well. 
 
 > **Info:**  I want to write my code understandable and clean even when it makes the actual code longer.
 
