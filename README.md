@@ -28,15 +28,20 @@ In this reposority you will find my working solutions for puzzles on the platfor
 * Treasure hunt - [Python](https://github.com/supreme-gamer/CodinGame/blob/main/Easy/Treasure%20hunt/Treasure%20hunt.py)
 
 #### :star::star: MEDIUM
+* Anagrams - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Anagrams/Anagrams.lua)
 * Bruce Lee - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Bruce%20Lee/Bruce%20Lee.lua)
 * Byte Pair Encoding - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Byte%20Pair%20Encoding/Byte%20Pair%20Encoding.lua)
 * Carmichael numbers - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Carmichael%20numbers/Carmichael%20numbers.lua)
 * Code Breaker Puzzle - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Code%20Breaker%20Puzzle/Code%20Breaker%20Puzzle.lua)
+* Conway Sequence - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Conway%20Sequence/Conway%20Sequence.lua)
 * Disks intersection - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Disks%20intersection/Disks%20intersection.lua)
+* Escaping the Cat - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Escaping%20the%20Cat/Escaping%20the%20Cat.lua)
 * Gravity - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Gravity/Gravity.lua)
 * Huffman Code - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Huffman%20Code/Huffman%20Code.lua)
 * Numeral System - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Numeral%20System/Numeral%20System.lua)
+* Simple Blur - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Simple%20Blur/Simple%20Blur.lua)
 * Sudoku Solver - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/Sudoku%20Solver/Sudoku%20Solver.lua)
+* The Fastest - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/The%20Fastest/The%20Fastest.lua)
 * The Gift - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Medium/The%20Gift/The%20Gift.lua)
 
 #### :star::star::star: HARD
