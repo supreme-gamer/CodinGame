@@ -56,3 +56,5 @@ In this reposority you will find my working solutions for puzzles on the platfor
 * Recurring Decimals - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Very%20Hard/Recurring%20Decimals/Recurring%20Decimals.lua)
 * The Lucky Number - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Very%20Hard/The%20Lucky%20Number/The%20Lucky%20Number.lua)
 * The Resistance - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Very%20Hard/The%20Resistance/The%20Resistance.lua)
+
+#### :star::star::star::star::star: BOT PROGRAMMING
