@@ -58,3 +58,5 @@ In this reposority you will find my working solutions for puzzles on the platfor
 * The Resistance - [Lua](https://github.com/supreme-gamer/CodinGame/blob/main/Very%20Hard/The%20Resistance/The%20Resistance.lua)
 
 #### :star::star::star::star::star: BOT PROGRAMMING
+* Atari Go 9x9 - [Python](https://github.com/supreme-gamer/CodinGame/tree/main/Bot%20Programming/Atari%20Go%209x9)
+* Chess - [Python](https://github.com/supreme-gamer/CodinGame/blob/main/Bot%20Programming/Chess/Chess%20v0.1.py) 
